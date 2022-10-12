@@ -6,7 +6,9 @@
 - moving one tile at a time
 - bonus
 - smooth moving tiles and logs
-- 
+- Highsocore
+- Time counter
+- score counter
 
 
 
