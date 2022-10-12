@@ -11,7 +11,8 @@
 - score counter
 
 
-
+# Flow diagram
+!["./Flowdiagram Frogger.png"]("./Flowdiagram Frogger.png")
 
 
 # GIT TUTORIAL (til mads)
