@@ -7,12 +7,17 @@
 - bonus
 - smooth moving tiles and logs
 - Highsocore
-- Time counter
+- Time limit (50 sec)
 - score counter
-
+### score system
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Flow diagram
 !["./Flowdiagram Frogger.png"](https://raw.githubusercontent.com/imkowalski/frogger-clone-processing/main/Flowdiagram%20Frogger.png)
+
 
 
 # GIT TUTORIAL (til mads)
