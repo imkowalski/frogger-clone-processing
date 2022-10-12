@@ -10,10 +10,15 @@
 - Time limit (50 sec)
 - score counter
 ### score system
-| First Header  | Second Header |
+| factors  | points |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Successful forward jump | 10 points  |
+| Getting a frog home  | 50 points  |
+| For each remaining second  |  10 points  |
+| Escorting a lady frog home |  200 points  |
+| Catching a fly |  200 points  |
+| Getting all 5 frogs home  |  1000 points |
+
 
 # Flow diagram
 !["./Flowdiagram Frogger.png"](https://raw.githubusercontent.com/imkowalski/frogger-clone-processing/main/Flowdiagram%20Frogger.png)
