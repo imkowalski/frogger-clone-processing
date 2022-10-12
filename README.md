@@ -12,7 +12,7 @@
 
 
 # Flow diagram
-!["./Flowdiagram Frogger.png"]("./Flowdiagram Frogger.png")
+!["./Flowdiagram Frogger.png"](https://raw.githubusercontent.com/imkowalski/frogger-clone-processing/main/Flowdiagram%20Frogger.png)
 
 
 # GIT TUTORIAL (til mads)
