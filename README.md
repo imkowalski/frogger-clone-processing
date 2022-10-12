@@ -2,4 +2,4 @@
 
 # TODO
 
-**Michal do be liking men**
+**We do be liking men**
