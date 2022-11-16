@@ -23,7 +23,34 @@
 # Flow diagram
 !["./Flowdiagram Frogger.png"](https://raw.githubusercontent.com/imkowalski/frogger-clone-processing/main/Flowdiagram%20Frogger.png)
 
+Classes vi kunne bruge:
 
+car/log
+
+- En class, som giver funktionen med at gå fra højre til venstre samt venstre
+til højre. ville ikke bestemme dens fart siden det variere sig mellem biler.
+Det skal bevæge sig via pixels og ikke tiles.
+
+collision
+
+- En class, der ville se hvor frogger kan, og ikke kan stå/hoppe. Både til de
+steder, hvor Frogger ikke kan hoppe, og hvornår har dør ved at stå/ hoppe et
+sted.
+
+UI
+
+- En class som styrede intro skærm. ville være start game og måske 1-2 player
+
+Win condition/game controller
+
+- En class, der tjekker om man er færdig med ens lvl. Hvilket level man er ved
+  samt hvor mange liv man har tilbage.
+
+player
+
+- ville være om Froggers movement. At han kan ses/styres
+
+- Er allerede blevet implementeret semi. 
 
 # GIT TUTORIAL (til mads)
 
