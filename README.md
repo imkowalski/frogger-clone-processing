@@ -52,6 +52,11 @@ player
 
 - Er allerede blevet implementeret semi. 
 
+Spawner
+
+- Checker om biler/træstammer er inde i frame og spawner en ny hvis ikke.
+
+
 # GIT TUTORIAL (til mads)
 
 To update your local directory to the latest version
